@@ -1,2 +1,3 @@
 /static/upload/
 *.exe
+.vscode
